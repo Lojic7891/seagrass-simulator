@@ -2,20 +2,22 @@
 
 一个基于单文件 HTML 的海草床生态系统交互式模拟器，无需安装任何依赖，直接在浏览器中打开即可运行。
 
+**🌍 在线访问（GitHub Pages）：<https://lojic7891.github.io/seagrass-simulator/>**
+
 ## 使用方法
 
 1. 下载或克隆本仓库
-2. 直接用浏览器打开 `seagrass_simulator.html`
+2. 直接用浏览器打开 `index.html`
 
 ```bash
 git clone https://github.com/Lojic7891/seagrass-simulator.git
-open seagrass_simulator.html   # macOS
+open index.html   # macOS
 ```
 
 ## 文件结构
 
 ```
-├── seagrass_simulator.html   # 模拟器主页面（图片已内嵌为 base64，自包含）
+├── index.html                # 模拟器主页面（图片已内嵌为 base64，自包含）
 ├── assets/                   # 项目使用的原始图片素材
 │   ├── dugong.png
 │   ├── dugong_real.png
