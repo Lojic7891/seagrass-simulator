@@ -8,7 +8,7 @@
 2. 直接用浏览器打开 `seagrass_simulator.html`
 
 ```bash
-git clone https://github.com/<你的用户名>/seagrass-simulator.git
+git clone https://github.com/Lojic7891/seagrass-simulator.git
 open seagrass_simulator.html   # macOS
 ```
 
